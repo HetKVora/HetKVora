@@ -1,7 +1,9 @@
 ## Hi there, I'm Het Vora [HetKVora]
 
 🎓 Second year Natural Sciences undergrad at the University of Cambridge (Downing College)
+
 💻 Learning Python and Scientific Python to solve industry related and academic problems
+
 📈 Aspiring Investment Banker or Consultant with strong analytical and interpersonal skills
 
 
