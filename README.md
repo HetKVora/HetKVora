@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there, I'm Het Vora [HetKVora]
 
-<!--
-**HetKVora/HetKVora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second year Natural Sciences undergrad at the University of Cambridge (Downing College)
+💻 Learning Python and Scientific Python to solve industry related and academic problems
+📈 Aspiring Investment Banker or Consultant with strong analytical and interpersonal skills
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My tools
+
+- Python (NumPy, Matplotlib, SQL)
+- Scientific Python
+- Excel (DCF, 3 statement modelling, Pivot Tables, vlookup, numerical analysis)
+
+## My projects
+
+
+## Currently working on
+
+
+## Contact me
+
+- https://www.linkedin.com/in/hetvora/
+- het.vora@outlook.com
+
